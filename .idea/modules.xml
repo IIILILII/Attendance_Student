@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LinearLayoutExample.iml" filepath="$PROJECT_DIR$/.idea/modules/LinearLayoutExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ap/LinearLayoutExample.ap.iml" filepath="$PROJECT_DIR$/.idea/modules/ap/LinearLayoutExample.ap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ap/LinearLayoutExample.ap.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ap/LinearLayoutExample.ap.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ap/LinearLayoutExample.ap.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ap/LinearLayoutExample.ap.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ap/LinearLayoutExample.ap.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ap/LinearLayoutExample.ap.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LinearLayoutExample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LinearLayoutExample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LinearLayoutExample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LinearLayoutExample.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LinearLayoutExample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LinearLayoutExample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LinearLayoutExample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LinearLayoutExample.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appp/LinearLayoutExample.appp.iml" filepath="$PROJECT_DIR$/.idea/modules/appp/LinearLayoutExample.appp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appp/LinearLayoutExample.appp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appp/LinearLayoutExample.appp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appp/LinearLayoutExample.appp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/appp/LinearLayoutExample.appp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appp/LinearLayoutExample.appp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appp/LinearLayoutExample.appp.unitTest.iml" />
+    </modules>
+  </component>
+</project>
